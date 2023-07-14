@@ -1,0 +1,12 @@
+lab2.oil: \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/config.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/kernel.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/api.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/api_STM.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/api_ioc.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/cortex/config.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/cortex/armv7em/config.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/cortex/armv7em/buildOptions.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/cortex/armv7em/stm32f407/config.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/cortex/armv7em/stm32f407/stm32f4discovery/config.oil \
+ /Users/mlauer/Documents/Recherche/git/trampoline/goil/templates/config/config2.5.oil

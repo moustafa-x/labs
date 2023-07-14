@@ -1,0 +1,12 @@
+build/machines/cortex/tpl_ctx_switch.S.o: \
+ ../../../machines/cortex/tpl_ctx_switch.S \
+ ../../../machines/cortex/tpl_os_kernel_stack.h lab2/tpl_app_define.h \
+ ../../../os/tpl_config_def.h ../../../os/tpl_config_check.h
+
+../../../machines/cortex/tpl_os_kernel_stack.h:
+
+lab2/tpl_app_define.h:
+
+../../../os/tpl_config_def.h:
+
+../../../os/tpl_config_check.h:

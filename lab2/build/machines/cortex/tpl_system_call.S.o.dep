@@ -1,0 +1,25 @@
+build/machines/cortex/tpl_system_call.S.o: \
+ ../../../machines/cortex/tpl_system_call.S \
+ ../../../machines/cortex/tpl_assembler.h \
+ ../../../machines/cortex/tpl_asm_definitions.h \
+ ../../../machines/cortex/tpl_os_kernel_stack.h lab2/tpl_service_ids.h \
+ ../../../os/tpl_config_def.h ../../../os/tpl_as_memmap.h \
+ lab2/tpl_app_define.h ../../../os/tpl_config_check.h lab2/AsMemMap.h
+
+../../../machines/cortex/tpl_assembler.h:
+
+../../../machines/cortex/tpl_asm_definitions.h:
+
+../../../machines/cortex/tpl_os_kernel_stack.h:
+
+lab2/tpl_service_ids.h:
+
+../../../os/tpl_config_def.h:
+
+../../../os/tpl_as_memmap.h:
+
+lab2/tpl_app_define.h:
+
+../../../os/tpl_config_check.h:
+
+lab2/AsMemMap.h:

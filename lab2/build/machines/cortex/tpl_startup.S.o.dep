@@ -1,0 +1,2 @@
+build/machines/cortex/tpl_startup.S.o: \
+ ../../../machines/cortex/tpl_startup.S
